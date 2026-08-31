@@ -1,5 +1,6 @@
 export const metadata = {
   title: "Disposable Test Site",
+  description: "A small, real disposable test site used for Ava's Phase 1 end-to-end remediation test.",
 };
 
 export default function Home() {
